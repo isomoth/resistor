@@ -1,6 +1,6 @@
 # Resistor
 
-Resistor is a simple Java class that calculates a resistor's resistance value, based on a menu where the user input consists of which colors the resistor has. 
+Resistor is a simple Java class that calculates a resistor's resistance value, based on user input consisting of ring color codes. 
 User input: 4 colors. 
 Color codes: 0=black, 1=brown, 2=red, 3=orange, 4=yellow, 5=green, 6=blue, 7=purple, 8=grey, 9=white, 10=yellow, 11=silver, 12=none
 
