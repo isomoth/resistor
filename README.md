@@ -1,4 +1,5 @@
 ![Image of Resistor Color Codes](https://upload.wikimedia.org/wikipedia/commons/f/f5/Resistor_color_code.png)
+Image credit: Adim kassn, CC BY-SA 3.0 <https://creativecommons.org/licenses/by-sa/3.0>, via Wikimedia Commons
 
 # Resistor
 
