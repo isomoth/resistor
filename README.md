@@ -1,3 +1,5 @@
+![Image of Resistor Color Codes](https://upload.wikimedia.org/wikipedia/commons/f/f5/Resistor_color_code.png)
+
 # Resistor
 
 Resistor is a simple Java class that calculates a resistor's resistance value, based on user input consisting of ring color codes. 
